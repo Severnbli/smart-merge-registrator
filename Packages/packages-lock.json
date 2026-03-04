@@ -1,13 +1,5 @@
 {
   "dependencies": {
-    "com.unity.multiplayer.center": {
-      "version": "1.0.1",
-      "depth": 0,
-      "source": "builtin",
-      "dependencies": {
-        "com.unity.modules.uielements": "1.0.0"
-      }
-    },
     "severnbli.smart-merge-registrator": {
       "version": "file:severnbli.smart-merge-registrator",
       "depth": 0,
