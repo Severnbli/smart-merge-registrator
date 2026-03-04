@@ -13,3 +13,7 @@ Install via git url or by adding new entry in your **`manifest.json`**.
   }
 }
 ```
+
+_Special thanks to [newnon](https://github.com/newnon) and his [work](https://habr.com/ru/articles/493488/)._
+
+_License: MIT_
