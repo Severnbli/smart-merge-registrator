@@ -1,23 +1,16 @@
 {
-  "name": "com.company-name.package-name",
-  "version": "0.0.1",
-  "displayName": "Pretty package name",
-  "description": "Your package description.",
+  "name": "severnbli.smart-merge-registrator",
+  "version": "1.0.0",
+  "displayName": "Smart Merge Registrator",
+  "description": "Adds the ability to manage Unity Smart Merge from Editor: Tools → Git.",
   "unity": "2019.4",
   "unityRelease": "8f1",
   "keywords": [
-    "tool"
+    "tool", "smart merge", "yaml"
   ],
   "author": {
-    "name": "",
-    "email": "",
-    "url": ""
+    "name": "Severnbli",
+    "url": "https://github.com/Severnbli"
   },
-  "samples": [
-    {
-      "displayName": "Sample name",
-      "description": "Sample description.",
-      "path": "Samples~/SampleFolderName"
-    }
-  ]
+  "type": "tool"
 }
