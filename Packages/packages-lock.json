@@ -1,11 +1,5 @@
 {
   "dependencies": {
-    "com.company-name.package-name": {
-      "version": "file:PACKAGE_NAME",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "com.unity.multiplayer.center": {
       "version": "1.0.1",
       "depth": 0,
@@ -13,6 +7,12 @@
       "dependencies": {
         "com.unity.modules.uielements": "1.0.0"
       }
+    },
+    "severnbli.smart-merge-registrator": {
+      "version": "file:severnbli.smart-merge-registrator",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
     },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",

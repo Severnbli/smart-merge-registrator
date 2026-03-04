@@ -1,5 +1,6 @@
 {
-    "name": "PackageName.Editor",
+    "name": "severnbli.smart-merge-registrator.Editor",
+    "rootNamespace": "",
     "references": [
         "PackageName"
     ],
