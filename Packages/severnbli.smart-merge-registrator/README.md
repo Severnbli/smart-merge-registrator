@@ -1,5 +1,11 @@
 
 ## Installation
-Install via git url by adding this entry in your **manifest.json**
-
-`"$package-name$": "https://github.com/$GitHubUsername$/$RepositoryName$.git#upm"`
+Install via git url or by adding new entry in your **`manifest.json`**.
+```json
+{
+  "dependencies": {
+    "severnbli.smart-merge-registrator": "https://github.com/Severnbli/smart-merge-registrator.git#upm",
+    ...
+  }
+}
+```
